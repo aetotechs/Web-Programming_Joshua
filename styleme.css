@@ -1,0 +1,22 @@
+body {
+    background-color: aliceblue;
+    border: 2px solid burlywood;
+    padding: 5px;
+    margin: 3px;
+}
+h1 {
+    color: rgb(0, 17, 110);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.aboutMe {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14pt;
+}
+
+.activities > ul, ol{
+    color: rgb(3, 3, 70);
+}
+
+.activities > h2, h3 {
+    color: hsl(33, 94%, 42%);
+}
