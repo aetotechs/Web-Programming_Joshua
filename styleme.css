@@ -43,3 +43,7 @@ h1 {
     color: rgb(3, 3, 70);
     font-size: 14pt;
 }
+
+#validator{
+    text-align: right;
+}
