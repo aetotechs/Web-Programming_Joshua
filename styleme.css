@@ -44,6 +44,11 @@ h1 {
     font-size: 14pt;
 }
 
-#validator{
+.validator{
     text-align: right;
+}
+
+#validator:hover{
+    border: 2px solid blue;
+    /*height: 20px;*/
 }
