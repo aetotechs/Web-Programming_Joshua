@@ -1,22 +1,45 @@
 body {
     background-color: aliceblue;
     border: 2px solid burlywood;
-    padding: 5px;
-    margin: 3px;
+    padding: 40px;
+    margin: 40px;
 }
+
 h1 {
     color: rgb(0, 17, 110);
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 26pt;
+    text-align: center;
 }
+
 .aboutMe {
+    color: rgb(3, 3, 70);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 14pt;
+    font-size: 15pt;
+    text-align: center;
+}
+
+.activities{
+    text-align: justify;   
 }
 
 .activities > ul, ol{
     color: rgb(3, 3, 70);
+    font-size: 14pt;
 }
 
 .activities > h2, h3 {
     color: hsl(33, 94%, 42%);
+    font-size: 17pt;
+    font-weight: bold;
+}
+
+#mood{
+    color: rgb(3, 3, 70);
+    font-size: 14pt;
+}
+
+#neighbor{
+    color: rgb(3, 3, 70);
+    font-size: 14pt;
 }
