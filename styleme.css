@@ -52,3 +52,22 @@ h1 {
     border: 2px solid blue;
     /*height: 20px;*/
 }
+
+.favourite-link{
+    text-decoration: none;
+}
+
+.favourite-link:hover{
+    text-decoration: underline;
+}
+
+p::first-letter{
+    
+    color: rgb(199, 10, 10);
+    float: left;
+    font-size: 28pt;
+    top: -2px;
+    padding-right: 2px;
+    /*initial-letter: 2;
+    */
+}
