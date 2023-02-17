@@ -1,8 +1,9 @@
 body{
-    background-color: white;
-    color: #404040;
+    background-color: rgba(8, 126, 110, 0.308);
+    color: #00463a;
     font-size: 11pt;
     font-family: Georgia, Garamond, serif;
+    margin: 50px;
 }
 
 h1, h2{
@@ -23,7 +24,11 @@ h2{
     font-size: 18pt normal;
 }
 
-link{
+a{
     color: #A4A400;
+}
+
+.directions, .ingridients, #comment{
+    line-height: 20pt;
 }
 
